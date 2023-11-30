@@ -10,4 +10,10 @@
 * [Dev.to](https://dev.to/minarctic)
 * [Medium](https://medium.com/@minarctic)
 
+[![Mina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minarctic&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+transparent
+<!--
 [![Mina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minarctic&show_icons=true&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
