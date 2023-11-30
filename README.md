@@ -9,4 +9,5 @@
 * [LinkedIn](https://www.linkedin.com/in/hosseinpourmina/)
 * [Dev.to](https://dev.to/minarctic)
 * [Medium](https://medium.com/@minarctic)
-[![Mina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minarctic)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Mina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minarctic&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
