@@ -8,5 +8,5 @@
 * [GitLab](https://gitlab.com/Minarctic)
 * [LinkedIn](https://www.linkedin.com/in/hosseinpourmina/)
 * [Dev.to](https://dev.to/minarctic)
-* [Medium](https://medium.com/minarctic)
+* [Medium](https://medium.com/@minarctic)
 
